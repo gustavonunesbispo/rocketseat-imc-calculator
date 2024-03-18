@@ -6,4 +6,13 @@
 
 :root {
   font-size: 62.5%;
+  --color--bg--blue--900: #040924;
+  --color--bg--white: #FFFFFF;
+  --color--bg--red: #F03E3E;
+  --color--title--cyan--900: #0C3440;
+  --color--paragraph--green--700: #00453A;
+  --color--paragraph--black--800: #212529;
+  --color--paragraph--black--500: rgba(73, 80, 87, 50%);
+  --color--paragraph--white: #FFFFFF;
+  --color--btn--cyan--500: #02799D;
 }
