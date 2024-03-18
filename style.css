@@ -16,3 +16,7 @@
   --color--paragraph--white: #FFFFFF;
   --color--btn--cyan--500: #02799D;
 }
+
+body {
+  background-color: var(--color--bg--blue--900);
+}
