@@ -27,5 +27,5 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: var(--color--bg--blue--900);
+  background-color: var(--bg--page);
 }
