@@ -6,15 +6,23 @@
 
 :root {
   font-size: 62.5%;
-  --color--bg--blue--900: #040924;
-  --color--bg--white: #FFFFFF;
-  --color--bg--red: #F03E3E;
-  --color--title--cyan--900: #0C3440;
-  --color--paragraph--green--700: #00453A;
-  --color--paragraph--black--800: #212529;
-  --color--paragraph--black--500: rgba(73, 80, 87, 50%);
-  --color--paragraph--white: #FFFFFF;
-  --color--btn--cyan--500: #02799D;
+
+  --bg--page: #040924;
+  --bg--card: #FFFFFF;
+
+  --tt--heading: #0C3440;
+
+  --tt--label: #00453A;
+  --tt--input: #212529;
+  --ot--input: #02799D;
+  --bd--input: rgba(73, 80, 87, 0.3);
+  --tt--placeholder: rgba(73, 80, 87, 0.5);
+
+  --tt--button: #FFFFFF;
+  --bg--button: #02799D;
+
+  --bg--error: #F03E3E;
+  --tt--error: #FFFFFF;
 }
 
 body {
